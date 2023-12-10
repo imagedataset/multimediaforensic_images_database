@@ -1,4 +1,5 @@
-Test database for median filtering detection 
+Test database for median filtering detection
+//
 This repository contains the test image database folders for different manipulations in images. 
 These test databases can be used as a benchmark for image forensics.
 Firstly, the image database folder named (CNN_model_test_images.zip) contains 500 images of 256x256 resolution size. 
