@@ -24,20 +24,3 @@ This dataset is used to compile the results for the publication.
 
 (4) Agarwal, A., Gupta, A., “Real-time double JPEG forensics for mobile devices”, Journal of Real-
 Time Image Processing, vol. 19, pp. 727–737, 2022. https://doi.org/10.1007/s11554-022-01218-y
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-For using as a benchhmarking, images should be centrally cropped 
